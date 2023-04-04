@@ -1,6 +1,6 @@
 # 1. AWS란?
 
-> AWS는 Amazon Web Service로 서버, 네트워크 등 인프라 전체를 빌려주는 서비스입니다.
+> AWS는 Amazon Web Service로 서버, 네트워크 등 인프라 전체를 빌려주는 서비스입니다.   
 > 자세한 내용은 [AWS](https://aws.amazon.com/ko/)를 참고해주세요
 
 # 2. Git 설명
